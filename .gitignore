@@ -2,5 +2,5 @@
 *.o
 *.swp
 **/target/
-
+.idea/
 Cargo.lock
